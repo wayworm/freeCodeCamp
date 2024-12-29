@@ -1,0 +1,46 @@
+body{
+    background-color: #050510DD;
+  }
+  
+  
+  
+  header{
+    font-family: verdana,sans-serif;
+    text-align: center;
+    background-color: #555555;
+    color: #DDDDDD;
+  }
+  
+  header h1{
+    font-size: 4rem;
+    margin: 0 0;
+  }
+  
+  header h2{
+    font-size: 1.8rem;
+    margin-top: 4px;;
+  }
+  
+  header h3{
+    font-size: 0.7rem;
+  }
+  
+  .divider-large{
+    display: flex;
+    margin: auto auto;
+    background-color: #aaaaaa66;
+    width: 95vw;
+    height: 0.2vh;
+  }
+  
+  main{
+    background-color: #333533;
+    color: #DDDDDD;
+  }
+  
+  #image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+  }
